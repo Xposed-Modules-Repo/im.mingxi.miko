@@ -64,7 +64,7 @@
 ## 特别鸣谢
 - Guang233 V3UI设计
 - cooolia 消息左滑引用
-- yuexinya 后端服务
+- lovewuxin 后端服务
 - HdShare 自动登录/帮助完成部分功能
 
 ## 最后
