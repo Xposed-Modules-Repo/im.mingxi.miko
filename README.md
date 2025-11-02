@@ -58,9 +58,11 @@
 
 ## 交流
 - 电报讨论组 [@MikoChatGroup](https://t.me/MikoChatGroup)
-- 电报CI构建 [@MikoCIBuild](http://t.me/MikoCIBuilds)
+- 电报CI构建 [@MikoCIBuilds](http://t.me/MikoCIBuilds)
+- 电报通知频道 [@MikoNofication](http://t.me/wsy666HD)
 - QQ讨论组 902327702
-- QQ通知组 837012640
+- QQ讨论组2 1058720185
+- QQ通知组 837012640 弃用
 
 ## 问题反馈
 此仓库或者源码仓库Issue下反馈
